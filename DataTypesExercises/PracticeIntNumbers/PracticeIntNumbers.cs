@@ -10,11 +10,11 @@ namespace PracticeIntNumbers
     {
         static void Main(string[] args)
         {
-            var num1 = double.Parse(Console.ReadLine());
-            var num2 = double.Parse(Console.ReadLine());
-            var num3 = double.Parse(Console.ReadLine());
-            var num4 = double.Parse(Console.ReadLine());
-            var num5 = double.Parse(Console.ReadLine());
+            var num1 = short.Parse(Console.ReadLine());
+            var num2 = byte.Parse(Console.ReadLine());
+            var num3 = short.Parse(Console.ReadLine());
+            var num4 = int.Parse(Console.ReadLine());
+            var num5 = long.Parse(Console.ReadLine());
             var num6 = double.Parse(Console.ReadLine());
             var num7 = decimal.Parse(Console.ReadLine());
 
